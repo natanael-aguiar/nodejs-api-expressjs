@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid",
+        "country": "Spain",
+        "manager": "Zinedine Zidane",
+        "stadium": "Santiago Bernabéu",
+        "foundation_year": 1902,
+        "website": "https://www.realmadrid.com/"
+    },
+    {
+        "id": 2,
+        "name": "FC Barcelona",
+        "country": "Spain",
+        "manager": "Ronald Koeman",
+        "stadium": "Camp Nou",
+        "foundation_year": 1899,
+        "website": "https://www.fcbarcelona.com/"
+    },
+    {
+        "id": 3,
+        "name": "Bayern Munich",
+        "country": "Germany",
+        "manager": "Julian Nagelsmann",
+        "stadium": "Allianz Arena",
+        "foundation_year": 1900,
+        "website": "https://fcbayern.com/"
+    },
+    {
+        "id": 4,
+        "name": "Manchester City",
+        "country": "England",
+        "manager": "Pep Guardiola",
+        "stadium": "Etihad Stadium",
+        "foundation_year": 1880,
+        "website": "https://www.mancity.com/"
+    },
+    {
+        "id": 5,
+        "name": "Liverpool",
+        "country": "England",
+        "manager": "Jurgen Klopp",
+        "stadium": "Anfield",
+        "foundation_year": 1892,
+        "website": "https://www.liverpoolfc.com/"
+    },
+    {
+        "id": 6,
+        "name": "Juventus",
+        "country": "Italy",
+        "manager": "Massimiliano Allegri",
+        "stadium": "Allianz Stadium",
+        "foundation_year": 1897,
+        "website": "https://www.juventus.com/"
+    },
+    {
+        "id": 7,
+        "name": "Paris Saint-Germain",
+        "country": "France",
+        "manager": "Mauricio Pochettino",
+        "stadium": "Parc des Princes",
+        "foundation_year": 1970,
+        "website": "https://en.psg.fr/"
+    },
+    {
+        "id": 8,
+        "name": "Chelsea",
+        "country": "England",
+        "manager": "Thomas Tuchel",
+        "stadium": "Stamford Bridge",
+        "foundation_year": 1905,
+        "website": "https://www.chelseafc.com/"
+    },
+    {
+        "id": 9,
+        "name": "Manchester United",
+        "country": "England",
+        "manager": "Ralf Rangnick",
+        "stadium": "Old Trafford",
+        "foundation_year": 1878,
+        "website": "https://www.manutd.com/"
+    },
+    {
+        "id": 10,
+        "name": "Atletico Madrid",
+        "country": "Spain",
+        "manager": "Diego Simeone",
+        "stadium": "Wanda Metropolitano",
+        "foundation_year": 1903,
+        "website": "https://en.atleticodemadrid.com/"
+    },
+    {
+        "id": 11,
+        "name": "Ajax",
+        "country": "Netherlands",
+        "manager": "Erik ten Hag",
+        "stadium": "Johan Cruyff Arena",
+        "foundation_year": 1900,
+        "website": "https://english.ajax.nl/"
+    },
+    {
+        "id": 12,
+        "name": "Inter Milan",
+        "country": "Italy",
+        "manager": "Simone Inzaghi",
+        "stadium": "San Siro",
+        "foundation_year": 1908,
+        "website": "https://www.inter.it/"
+    },
+    {
+        "id": 13,
+        "name": "Borussia Dortmund",
+        "country": "Germany",
+        "manager": "Marco Rose",
+        "stadium": "Signal Iduna Park",
+        "foundation_year": 1909,
+        "website": "https://www.bvb.de/"
+    },
+    {
+        "id": 14,
+        "name": "FC Porto",
+        "country": "Portugal",
+        "manager": "Sergio Conceicao",
+        "stadium": "Estadio do Dragao",
+        "foundation_year": 1893,
+        "website": "https://www.fcporto.pt/"
+    },
+    {
+        "id": 15,
+        "name": "RB Leipzig",
+        "country": "Germany",
+        "manager": "Jesse Marsch",
+        "stadium": "Red Bull Arena",
+        "foundation_year": 2009,
+        "website": "https://www.dierotenbullen.com/"
+    },
+    {
+        "id": 16,
+        "name": "Sevilla",
+        "country": "Spain",
+        "manager": "Julen Lopetegui",
+        "stadium": "Ramon Sanchez-Pizjuan",
+        "foundation_year": 1890,
+        "website": "https://www.sevillafc.es/"
+    },
+    {
+        "id": 17,
+        "name": "Atalanta",
+        "country": "Italy",
+        "manager": "Gian Piero Gasperini",
+        "stadium": "Gewiss Stadium",
+        "foundation_year": 1907,
+        "website": "https://www.atalanta.it/"
+    },
+    {
+        "id": 18,
+        "name": "Lazio",
+        "country": "Italy",
+        "manager": "Maurizio Sarri",
+        "stadium": "Stadio Olimpico",
+        "foundation_year": 1900,
+        "website": "https://www.sslazio.it/"
+    },
+    {
+        "id": 19,
+        "name": "RB Salzburg",
+        "country": "Austria",
+        "manager": "Matthias Jaissle",
+        "stadium": "Red Bull Arena",
+        "foundation_year": 1933,
+        "website": "https://www.redbullsalzburg.at/"
+    },
+    {
+        "id": 20,
+        "name": "Benfica",
+        "country": "Portugal",
+        "manager": "Jorge Jesus",
+        "stadium": "Estadio da Luz",
+        "foundation_year": 1904,
+        "website": "https://www.slbenfica.pt/"
+    }
+]
